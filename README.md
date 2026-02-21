@@ -1,0 +1,2 @@
+# periop_anticoag_drug_hold
+周術期における抗凝固薬・抗血栓薬の休薬期間を商品名・一般名から即座に検索できるオフラインFlutterアプリ
