@@ -1,0 +1,1402 @@
+[
+  {
+    "category": "抗血小板薬",
+    "genericName": "アスピリン",
+    "productName": "バイアスピリン",
+    "period": "7-14日（出血リスク高のとき）",
+    "note": "(*7日)",
+    "shortCode": 8
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "アスピリン",
+    "productName": "バファリン",
+    "period": "7-14日（出血リスク高のとき）",
+    "note": "(*7日)",
+    "shortCode": 8
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "アスピリン",
+    "productName": "ゼンアスピリン",
+    "period": "7-14日（出血リスク高のとき）",
+    "note": "(*7日)",
+    "shortCode": 8
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "アスピリン",
+    "productName": "イスキア",
+    "period": "7-14日（出血リスク高のとき）",
+    "note": "(*7日)",
+    "shortCode": 8
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "アスピリン",
+    "productName": "アスピリン",
+    "period": "7-14日（出血リスク高のとき）",
+    "note": "(*7日)",
+    "shortCode": 8
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "アスピリン・ダイアルミネート",
+    "productName": "バファリンA81",
+    "period": "7-14日（出血リスク高のとき）",
+    "note": "(*7日)",
+    "shortCode": 8
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "アスピリン・ダイアルミネート",
+    "productName": "ニトギス",
+    "period": "7-14日（出血リスク高のとき）",
+    "note": "(*7日)",
+    "shortCode": 8
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "アスピリン・ダイアルミネート",
+    "productName": "アスファネート",
+    "period": "7-14日（出血リスク高のとき）",
+    "note": "(*7日)",
+    "shortCode": 8
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "アスピリン・ダイアルミネート",
+    "productName": "バッサミン",
+    "period": "7-14日（出血リスク高のとき）",
+    "note": "(*7日)",
+    "shortCode": 8
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "アスピリン・ダイアルミネート",
+    "productName": "ファモター",
+    "period": "7-14日（出血リスク高のとき）",
+    "note": "(*7日)",
+    "shortCode": 8
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "チクロビシン",
+    "productName": "パナルジン",
+    "period": "7-14日",
+    "note": "(7日)",
+    "shortCode": 8
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "チクロビシン",
+    "productName": "チクロピジン",
+    "period": "7-14日",
+    "note": "(7日)",
+    "shortCode": 8
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "チクロビシン",
+    "productName": "マイトジン",
+    "period": "7-14日",
+    "note": "(7日)",
+    "shortCode": 8
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "クロピドグレル",
+    "productName": "プラビックス",
+    "period": "5-14日",
+    "note": "(5日)",
+    "shortCode": 6
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "クロピドグレル",
+    "productName": "クロピドグレル",
+    "period": "5-14日",
+    "note": "(5日)",
+    "shortCode": 6
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "プラスグリル",
+    "productName": "エフィエント",
+    "period": "7-14日",
+    "note": "(7日)",
+    "shortCode": 8
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "アスピリン・ボノプラザン",
+    "productName": "キャブピリン配合",
+    "period": "7-14日",
+    "note": "(7日)",
+    "shortCode": 8
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "アスピリン・クロピドグレル",
+    "productName": "コンプラビン配合",
+    "period": "7-14日",
+    "note": "(7日)",
+    "shortCode": 8
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "アスピリン・クロピドグレル",
+    "productName": "ロレアス配合錠",
+    "period": "7-14日",
+    "note": "(7日)",
+    "shortCode": 8
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "アスピリン・ランソプラゾー ル",
+    "productName": "タケルダ配合",
+    "period": "7-14日",
+    "note": "(7日)",
+    "shortCode": 8
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "イコサペント酸エチル(EPA)",
+    "productName": "エパデールＳ",
+    "period": "7-14日",
+    "note": "(7日)",
+    "shortCode": 8
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "イコサペント酸エチル(EPA)",
+    "productName": "メルブラール",
+    "period": "7-14日",
+    "note": "(7日)",
+    "shortCode": 8
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "イコサペント酸エチル(EPA)",
+    "productName": "アテロパン",
+    "period": "7-14日",
+    "note": "(7日)",
+    "shortCode": 8
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "イコサペント酸エチル(EPA)",
+    "productName": "エパデールT",
+    "period": "7-14日",
+    "note": "(7日)",
+    "shortCode": 8
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "イコサペント酸エチル(EPA)",
+    "productName": "イコサペント酸エチル",
+    "period": "7-14日",
+    "note": "(7日)",
+    "shortCode": 8
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "イコサペント酸エチル(EPA)",
+    "productName": "エパキャップ",
+    "period": "7-14日",
+    "note": "(7日)",
+    "shortCode": 8
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "イコサペント酸エチル(EPA)",
+    "productName": "エパラ",
+    "period": "7-14日",
+    "note": "(7日)",
+    "shortCode": 8
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "イコサペント酸エチル(EPA)",
+    "productName": "エパロース",
+    "period": "7-14日",
+    "note": "(7日)",
+    "shortCode": 8
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "イコサペント酸エチル(EPA)",
+    "productName": "ソルミラン",
+    "period": "7-14日",
+    "note": "(7日)",
+    "shortCode": 8
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "イコサペント酸エチル(EPA)",
+    "productName": "ナサチーム",
+    "period": "7-14日",
+    "note": "(7日)",
+    "shortCode": 8
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "イコサペント酸エチル(EPA)/ ドコサヘキサ酸エチル(DHA)",
+    "productName": "ロトリガ配合",
+    "period": "7-10日",
+    "note": "(7日)",
+    "shortCode": 8
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "オザグレル塩酸塩水和物",
+    "productName": "オザグレル塩酸塩水和物",
+    "period": "7-10日",
+    "note": "(7日)",
+    "shortCode": 8
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "オザグレル塩酸塩水和物",
+    "productName": "ドメナン",
+    "period": "7-10日",
+    "note": "(7日)",
+    "shortCode": 8
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "チカグロレル",
+    "productName": "ブリリンタ",
+    "period": "7-10日",
+    "note": "(7日)",
+    "shortCode": 8
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "イブジラスト",
+    "productName": "ケタス",
+    "period": "3-5日",
+    "note": "(3日)",
+    "shortCode": 4
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "シロスタゾール",
+    "productName": "プレタール",
+    "period": "3日",
+    "note": "(3日)",
+    "shortCode": 4
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "シロスタゾール",
+    "productName": "コートリズム",
+    "period": "3日",
+    "note": "(3日)",
+    "shortCode": 4
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "シロスタゾール",
+    "productName": "シロシナミン",
+    "period": "3日",
+    "note": "(3日)",
+    "shortCode": 4
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "シロスタゾール",
+    "productName": "シロスタゾール",
+    "period": "3日",
+    "note": "(3日)",
+    "shortCode": 4
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "シロスタゾール",
+    "productName": "シロスレット",
+    "period": "3日",
+    "note": "(3日)",
+    "shortCode": 4
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "シロスタゾール",
+    "productName": "プレトモール",
+    "period": "3日",
+    "note": "(3日)",
+    "shortCode": 4
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "シロスタゾール",
+    "productName": "ホルダゾール",
+    "period": "3日",
+    "note": "(3日)",
+    "shortCode": 4
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "トラピジル",
+    "productName": "ロコルナ―ル",
+    "period": "3日",
+    "note": "(3日)",
+    "shortCode": 4
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "トラピジル",
+    "productName": "トラピジル",
+    "period": "3日",
+    "note": "(3日)",
+    "shortCode": 4
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "ジラゼプ塩酸塩",
+    "productName": "コメリアンコーワ",
+    "period": "2-3日",
+    "note": "(2日)",
+    "shortCode": 3
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "ジラゼプ塩酸塩",
+    "productName": "ジラゼプ塩酸塩",
+    "period": "2-3日",
+    "note": "(2日)",
+    "shortCode": 3
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "ニセルゴリン",
+    "productName": "サアミオン",
+    "period": "2-3日",
+    "note": "(2日)",
+    "shortCode": 3
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "ニセルゴリン",
+    "productName": "ニセルゴリン",
+    "period": "2-3日",
+    "note": "(2日)",
+    "shortCode": 3
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "ニコモール",
+    "productName": "コレキサミン",
+    "period": "2-3日",
+    "note": "(2日)",
+    "shortCode": 3
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "ニセリトール",
+    "productName": "ペリシット",
+    "period": "2-3日",
+    "note": "(2日)",
+    "shortCode": 3
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "トリメタジジン",
+    "productName": "バスタレルF",
+    "period": "2-3日",
+    "note": "(2日)",
+    "shortCode": 3
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "イフェンプロジル",
+    "productName": "セロクラール",
+    "period": "2日",
+    "note": "(2日)",
+    "shortCode": 3
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "イフェンプロジル",
+    "productName": "イフェンプロジル",
+    "period": "2日",
+    "note": "(2日)",
+    "shortCode": 3
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "サルポグレラート",
+    "productName": "アンプラーグ",
+    "period": "1-2日",
+    "note": "(1日)",
+    "shortCode": 2
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "ジピリダモール",
+    "productName": "ペルサンチン",
+    "period": "1-2日",
+    "note": "(1日)",
+    "shortCode": 2
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "ジピリダモール",
+    "productName": "ヨウリダモール",
+    "period": "1-2日",
+    "note": "(1日)",
+    "shortCode": 2
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "ベラプロストナトリウム",
+    "productName": "プロサイリン",
+    "period": "1-2日",
+    "note": "(1日)",
+    "shortCode": 2
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "ベラプロストナトリウム",
+    "productName": "ジピリダモール",
+    "period": "1-2日",
+    "note": "(1日)",
+    "shortCode": 2
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "ベラプロストナトリウム",
+    "productName": "ベラプロストNa",
+    "period": "1-2日",
+    "note": "(1日)",
+    "shortCode": 2
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "ベラプロストナトリウム",
+    "productName": "ドルナー",
+    "period": "1-2日",
+    "note": "(1日)",
+    "shortCode": 2
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "ベラプロストナトリウム",
+    "productName": "ベラサス",
+    "period": "1-2日",
+    "note": "(1日)",
+    "shortCode": 2
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "ベラプロストナトリウム",
+    "productName": "ケアロード",
+    "period": "1-2日",
+    "note": "(1日)",
+    "shortCode": 2
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "リマプロストアルファデクス",
+    "productName": "プロレナール",
+    "period": "1日",
+    "note": "(1日)",
+    "shortCode": 2
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "リマプロストアルファデクス",
+    "productName": "オパルモン",
+    "period": "1日",
+    "note": "(1日)",
+    "shortCode": 2
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "リマプロストアルファデクス",
+    "productName": "リマプロストアルファデクス",
+    "period": "1日",
+    "note": "(1日)",
+    "shortCode": 2
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "セレキシパグ",
+    "productName": "ウプトラビ",
+    "period": "1日",
+    "note": "(1日)",
+    "shortCode": 2
+  },
+  {
+    "category": "抗凝固薬",
+    "genericName": "ワルファリン",
+    "productName": "ワーファリン",
+    "period": "3-5日",
+    "note": "(3日)",
+    "shortCode": 4
+  },
+  {
+    "category": "抗凝固薬",
+    "genericName": "ワルファリン",
+    "productName": "ワルファリンカリウム",
+    "period": "3-5日",
+    "note": "(3日)",
+    "shortCode": 4
+  },
+  {
+    "category": "抗凝固薬",
+    "genericName": "ワルファリン",
+    "productName": "ワルファリンＫ",
+    "period": "3-5日",
+    "note": "(3日)",
+    "shortCode": 4
+  },
+  {
+    "category": "抗凝固薬",
+    "genericName": "ダビガトランエテキシラート",
+    "productName": "プラザキサ",
+    "period": "2日",
+    "note": "(2日)",
+    "shortCode": 3
+  },
+  {
+    "category": "抗凝固薬",
+    "genericName": "リバーロキサバン",
+    "productName": "イグザレルト",
+    "period": "2日",
+    "note": "(2日)",
+    "shortCode": 3
+  },
+    {
+    "category": "抗凝固薬",
+    "genericName": "リバーロキサバン",
+    "productName": "リバーロキサバン",
+    "period": "2日",
+    "note": "(2日)",
+    "shortCode": 3
+  },
+  {
+    "category": "抗凝固薬",
+    "genericName": "アピキサバン",
+    "productName": "エリキュース",
+    "period": "2日",
+    "note": "(2日)",
+    "shortCode": 3
+  },
+  {
+    "category": "抗凝固薬",
+    "genericName": "エドキサバン",
+    "productName": "リクシアナ",
+    "period": "2日",
+    "note": "(2日)",
+    "shortCode": 3
+  },
+  {
+    "category": "抗凝固薬",
+    "genericName": "イブルチニブ",
+    "productName": "イムブルビカ",
+    "period": "3-7日前から休薬",
+    "note": "(3日)",
+    "shortCode": 4
+  },
+  {
+    "category": "抗凝固薬",
+    "genericName": "チラブルチニブ",
+    "productName": "ベレキシブル",
+    "period": "主治医判断",
+    "note": "(医判)",
+    "shortCode": "(医判)"
+  },
+  {
+    "category": "低用量経口避妊薬",
+    "genericName": "デソゲストレル エチニルエストラジオール",
+    "productName": "ファボワール",
+    "period": "術前4週間、後2週間",
+    "note": "(28日)",
+    "shortCode": 29
+  },
+  {
+    "category": "低用量経口避妊薬",
+    "genericName": "デソゲストレル エチニルエストラジオール",
+    "productName": "マーベロン",
+    "period": "術前4週間、後2週間",
+    "note": "(28日)",
+    "shortCode": 29
+  },
+  {
+    "category": "低用量経口避妊薬",
+    "genericName": "ノルエチステロン エチニルエストラジオール",
+    "productName": "シンフェーズ",
+    "period": "術前4週間、後2週間",
+    "note": "(28日)",
+    "shortCode": 29
+  },
+  {
+    "category": "低用量経口避妊薬",
+    "genericName": "レボノルゲストレル エチニルエストラジオール",
+    "productName": "アンジュ",
+    "period": "術前4週間、後2週間",
+    "note": "(28日)",
+    "shortCode": 29
+  },
+  {
+    "category": "低用量経口避妊薬",
+    "genericName": "レボノルゲストレル エチニルエストラジオール",
+    "productName": "トリキュラー",
+    "period": "術前4週間、後2週間",
+    "note": "(28日)",
+    "shortCode": 29
+  },
+  {
+    "category": "低用量経口避妊薬",
+    "genericName": "レボノルゲストレル エチニルエストラジオール",
+    "productName": "ラベルフィーユ",
+    "period": "術前4週間、後2週間",
+    "note": "(28日)",
+    "shortCode": 29
+  },
+  {
+    "category": "月経困難症治療薬",
+    "genericName": "ノルエチステロン エチニルエストラジオール",
+    "productName": "ルナベル配合",
+    "period": "術前4週間、後2週間",
+    "note": "(28日)",
+    "shortCode": 29
+  },
+  {
+    "category": "月経困難症治療薬",
+    "genericName": "ノルエチステロン エチニルエストラジオール",
+    "productName": "フリウェル配合",
+    "period": "術前4週間、後2週間",
+    "note": "(28日)",
+    "shortCode": 29
+  },
+  {
+    "category": "月経困難症治療薬",
+    "genericName": "ドロスピレン エチニルエストラジオール",
+    "productName": "ヤーズ配合",
+    "period": "術前4週間、後2週間",
+    "note": "(28日)",
+    "shortCode": 29
+  },
+  {
+    "category": "月経困難症治療薬",
+    "genericName": "ドロスピレン エチニルエストラジオール",
+    "productName": "ヤーズフレックス配合",
+    "period": "術前4週間、後2週間",
+    "note": "(28日)",
+    "shortCode": 29
+  },
+  {
+    "category": "月経困難症治療薬",
+    "genericName": "レボノルゲストレル エチニルエストラジオール",
+    "productName": "ジェミーナ配合",
+    "period": "術前4週間、後2週間",
+    "note": "(28日)",
+    "shortCode": 29
+  },
+  {
+    "category": "その他",
+    "genericName": "ノルゲストレル エチニルエストラジオール",
+    "productName": "プラノバール配合",
+    "period": "術前4週間、後2週間",
+    "note": "(28日)",
+    "shortCode": 29
+  },
+  {
+    "category": "その他",
+    "genericName": "ノルエチステロン エストラジオール",
+    "productName": "メノエイドコンビパッチ",
+    "period": "休薬なし",
+    "note": "(0日)",
+    "shortCode": 1
+  },
+  {
+    "category": "その他",
+    "genericName": "レボノルゲストレル 投与 エストラジオール",
+    "productName": "ウェールナラ配合",
+    "period": "休薬なし",
+    "note": "(0日)",
+    "shortCode": 1
+  },
+  {
+    "category": "卵胞ホルモン製剤",
+    "genericName": "結合型エストロゲン",
+    "productName": "プレマリン",
+    "period": "休薬あるなしさまざま",
+    "note": "(医判)",
+    "shortCode": "(医判)"
+  },
+  {
+    "category": "卵胞ホルモン製剤",
+    "genericName": "エストリオール",
+    "productName": "エストリール",
+    "period": "休薬あるなしさまざま",
+    "note": "(医判)",
+    "shortCode": "(医判)"
+  },
+  {
+    "category": "卵胞ホルモン製剤",
+    "genericName": "エストリオール",
+    "productName": "ホーリン",
+    "period": "休薬あるなしさまざま",
+    "note": "(医判)",
+    "shortCode": "(医判)"
+  },
+  {
+    "category": "卵胞ホルモン製剤",
+    "genericName": "エストラジオール",
+    "productName": "ジュリナ",
+    "period": "休薬あるなしさまざま",
+    "note": "(医判)",
+    "shortCode": "(医判)"
+  },
+  {
+    "category": "卵胞ホルモン製剤",
+    "genericName": "エストラジオール",
+    "productName": "ディビゲル",
+    "period": "休薬あるなしさまざま",
+    "note": "(医判)",
+    "shortCode": "(医判)"
+  },
+  {
+    "category": "卵胞ホルモン製剤",
+    "genericName": "エストラジオール",
+    "productName": "ル・エストロジェル",
+    "period": "休薬あるなしさまざま",
+    "note": "(医判)",
+    "shortCode": "(医判)"
+  },
+  {
+    "category": "卵胞ホルモン製剤",
+    "genericName": "エストラジオール",
+    "productName": "エストラーナテープ",
+    "period": "休薬あるなしさまざま",
+    "note": "(医判)",
+    "shortCode": "(医判)"
+  },
+  {
+    "category": "骨粗しょう症治療薬",
+    "genericName": "ラロキシフェン",
+    "productName": "エビスタ",
+    "period": "術3日前～歩行まで",
+    "note": "(3日)",
+    "shortCode": 4
+  },
+  {
+    "category": "骨粗しょう症治療薬",
+    "genericName": "バゼドキシフェン",
+    "productName": "ビビアント",
+    "period": "術3日前～歩行まで",
+    "note": "(3日)",
+    "shortCode": 4
+  },
+  {
+    "category": "黄体ホルモン",
+    "genericName": "メドロキシプロゲステロン （高用量）",
+    "productName": "ヒスロンＨ200",
+    "period": "さまざま",
+    "note": "(医判)",
+    "shortCode": "(医判)"
+  },
+  {
+    "category": "ビグアナイド薬",
+    "genericName": "メトホルミン",
+    "productName": "メトグルコ",
+    "period": "1-2日前から2日後まで",
+    "note": "(1日)",
+    "shortCode": 2
+  },
+  {
+    "category": "ビグアナイド薬",
+    "genericName": "メトホルミン",
+    "productName": "イニシンク配合",
+    "period": "1-2日前から2日後まで",
+    "note": "(1日)",
+    "shortCode": 2
+  },
+  {
+    "category": "ビグアナイド薬",
+    "genericName": "メトホルミン",
+    "productName": "エクメット配合",
+    "period": "1-2日前から2日後まで",
+    "note": "(1日)",
+    "shortCode": 2
+  },
+  {
+    "category": "ビグアナイド薬",
+    "genericName": "メトホルミン",
+    "productName": "メタクト配合",
+    "period": "1-2日前から2日後まで",
+    "note": "(1日)",
+    "shortCode": 2
+  },
+  {
+    "category": "ビグアナイド薬",
+    "genericName": "メトホルミン",
+    "productName": "メトアナ配合",
+    "period": "1-2日前から2日後まで",
+    "note": "(1日)",
+    "shortCode": 2
+  },
+  {
+    "category": "ビグアナイド薬",
+    "genericName": "メトホルミン",
+    "productName": "メトホルミン",
+    "period": "1-2日前から2日後まで",
+    "note": "(1日)",
+    "shortCode": 2
+  },
+  {
+    "category": "SGLT2阻害薬",
+    "genericName": "イプラグリフロジン",
+    "productName": "スーグラ",
+    "period": "術前3日から食事開始まで",
+    "note": "(3日)",
+    "shortCode": 4
+  },
+  {
+    "category": "SGLT2阻害薬",
+    "genericName": "エンパグリフロジン",
+    "productName": "ジャディアンス",
+    "period": "術前3日から食事開始まで",
+    "note": "(3日)",
+    "shortCode": 4
+  },
+  {
+    "category": "SGLT2阻害薬",
+    "genericName": "カナグリフロジン",
+    "productName": "カナグル",
+    "period": "術前3日から食事開始まで",
+    "note": "(3日)",
+    "shortCode": 4
+  },
+  {
+    "category": "SGLT2阻害薬",
+    "genericName": "ダパグリフロジン",
+    "productName": "フォシーガ",
+    "period": "術前3日から食事開始まで",
+    "note": "(3日)",
+    "shortCode": 4
+  },
+  {
+    "category": "SGLT2阻害薬",
+    "genericName": "トホグリフロジン",
+    "productName": "デベルザ",
+    "period": "術前3日から食事開始まで",
+    "note": "(3日)",
+    "shortCode": 4
+  },
+  {
+    "category": "SGLT2阻害薬",
+    "genericName": "ルセオグリフロジン",
+    "productName": "ルセフィ",
+    "period": "術前3日から食事開始まで",
+    "note": "(3日)",
+    "shortCode": 4
+  },
+  {
+    "category": "SGLT2阻害薬",
+    "genericName": "SGLT2阻害薬配合剤",
+    "productName": "カナリア配合",
+    "period": "術前3日から食事開始まで",
+    "note": "(3日)",
+    "shortCode": 4
+  },
+  {
+    "category": "SGLT2阻害薬",
+    "genericName": "SGLT2阻害薬配合剤",
+    "productName": "スージャヌ配合",
+    "period": "術前3日から食事開始まで",
+    "note": "(3日)",
+    "shortCode": 4
+  },
+  {
+    "category": "SGLT2阻害薬",
+    "genericName": "SGLT2阻害薬配合剤",
+    "productName": "トラディアンス配合",
+    "period": "術前3日から食事開始まで",
+    "note": "(3日)",
+    "shortCode": 4
+  },
+  {
+    "category": "抗がん薬",
+    "genericName": "ベバシズマブ",
+    "productName": "アバスチン(注射)",
+    "period": "６週間",
+    "note": "(42日)",
+    "shortCode": 43
+  },
+  {
+    "category": "抗がん薬",
+    "genericName": "アキシチニブ",
+    "productName": "インライタ",
+    "period": "２４時間",
+    "note": "(1日)",
+    "shortCode": 2
+  },
+  {
+    "category": "抗がん薬",
+    "genericName": "パゾパニブ",
+    "productName": "ヴォリエント",
+    "period": "７日前から休薬",
+    "note": "(7日)",
+    "shortCode": 8
+  },
+  {
+    "category": "抗がん薬",
+    "genericName": "ニンテダニブ",
+    "productName": "オフェブ",
+    "period": "４日前から休薬",
+    "note": "(4日)",
+    "shortCode": 5
+  },
+  {
+    "category": "抗がん薬",
+    "genericName": "ラムシルマブ",
+    "productName": "サイラムザ(注射)",
+    "period": "２８日、小手術は７日",
+    "note": "(28日)",
+    "shortCode": 29
+  },
+  {
+    "category": "抗がん薬",
+    "genericName": "スニチニブ",
+    "productName": "スーテント",
+    "period": "７～１０日",
+    "note": "(28日)",
+    "shortCode": 29
+  },
+  {
+    "category": "抗がん薬",
+    "genericName": "レゴラフェニブ",
+    "productName": "スチバーガ",
+    "period": "１４日",
+    "note": "(14日)",
+    "shortCode": 15
+  },
+  {
+    "category": "抗がん薬",
+    "genericName": "テムシロリムス",
+    "productName": "トーリセル(注射)",
+    "period": "１４日",
+    "note": "(14日)",
+    "shortCode": 15
+  },
+  {
+    "category": "抗がん薬",
+    "genericName": "ソラフェニブ",
+    "productName": "ネクサバール",
+    "period": "７日前から休薬",
+    "note": "(7日)",
+    "shortCode": 8
+  },
+  {
+    "category": "抗がん薬",
+    "genericName": "レンバチニブ",
+    "productName": "レンビマ",
+    "period": "７日から軽度の場合は２日",
+    "note": "(7日)",
+    "shortCode": 8
+  },
+  {
+    "category": "PDE５阻害薬",
+    "genericName": "タダラフィル",
+    "productName": "アドシルカ",
+    "period": "硝酸剤等使用時は併用禁忌",
+    "note": "(医判)",
+    "shortCode": "(医判)"
+  },
+  {
+    "category": "PDE５阻害薬",
+    "genericName": "タダラフィル",
+    "productName": "ザルティア",
+    "period": "硝酸剤等使用時は併用禁忌",
+    "note": "(医判)",
+    "shortCode": "(医判)"
+  },
+  {
+    "category": "PDE５阻害薬",
+    "genericName": "タダラフィル",
+    "productName": "シアリス",
+    "period": "硝酸剤等使用時は併用禁忌",
+    "note": "(医判)",
+    "shortCode": "(医判)"
+  },
+  {
+    "category": "PDE５阻害薬",
+    "genericName": "リオシグアト",
+    "productName": "アデムパス",
+    "period": "硝酸剤等使用時は併用禁忌",
+    "note": "(医判)",
+    "shortCode": "(医判)"
+  },
+  {
+    "category": "PDE５阻害薬",
+    "genericName": "シルデナフィル",
+    "productName": "レバチオ",
+    "period": "硝酸剤等使用時は併用禁忌",
+    "note": "(医判)",
+    "shortCode": "(医判)"
+  },
+  {
+    "category": "PDE５阻害薬",
+    "genericName": "シルデナフィル",
+    "productName": "バイアグラ",
+    "period": "硝酸剤等使用時は併用禁忌",
+    "note": "(医判)",
+    "shortCode": "(医判)"
+  },
+  {
+    "category": "PDE５阻害薬",
+    "genericName": "バルデナフィル",
+    "productName": "レビトラ",
+    "period": "硝酸剤等使用時は併用禁忌",
+    "note": "(医判)",
+    "shortCode": "(医判)"
+  },
+  {
+    "category": "インスリン分泌促進薬",
+    "genericName": "ミチグリニド",
+    "productName": "グルファスト",
+    "period": "当日から",
+    "note": "(0日)",
+    "shortCode": 1
+  },
+  {
+    "category": "インスリン分泌促進薬",
+    "genericName": "レパグリニド",
+    "productName": "シュアポスト",
+    "period": "当日から",
+    "note": "(0日)",
+    "shortCode": 1
+  },
+  {
+    "category": "インスリン分泌促進薬",
+    "genericName": "ナテグリニド",
+    "productName": "スターシス",
+    "period": "当日から",
+    "note": "(0日)",
+    "shortCode": 1
+  },
+  {
+    "category": "インスリン分泌促進薬",
+    "genericName": "ナテグリニド",
+    "productName": "ファスティック",
+    "period": "当日から",
+    "note": "(0日)",
+    "shortCode": 1
+  },
+  {
+    "category": "SU薬",
+    "genericName": "グリメピリド",
+    "productName": "アマリール",
+    "period": "当日から",
+    "note": "(0日)",
+    "shortCode": 1
+  },
+  {
+    "category": "SU薬",
+    "genericName": "グリベンクラミド",
+    "productName": "オイグルコン",
+    "period": "当日から",
+    "note": "(0日)",
+    "shortCode": 1
+  },
+  {
+    "category": "SU薬",
+    "genericName": "グリベンクラミド",
+    "productName": "ダオニール",
+    "period": "当日から",
+    "note": "(0日)",
+    "shortCode": 1
+  },
+  {
+    "category": "SU薬",
+    "genericName": "グリクラジド",
+    "productName": "グリミクロン",
+    "period": "当日から",
+    "note": "(0日)",
+    "shortCode": 1
+  },
+  {
+    "category": "SU薬",
+    "genericName": "ルリクロピラミド",
+    "productName": "デアメリン",
+    "period": "当日から",
+    "note": "(0日)",
+    "shortCode": 1
+  },
+  {
+    "category": "SU薬",
+    "genericName": "アセトヘキサミド",
+    "productName": "ジメリン",
+    "period": "当日から",
+    "note": "(0日)",
+    "shortCode": 1
+  },
+  {
+    "category": "SU薬",
+    "genericName": "クロルプロパミド",
+    "productName": "クロルプロパミド",
+    "period": "当日から",
+    "note": "(0日)",
+    "shortCode": 1
+  },
+  {
+    "category": "チアゾリジン誘導体",
+    "genericName": "ピオグリタゾン",
+    "productName": "アクトス",
+    "period": "当日から",
+    "note": "(0日)",
+    "shortCode": 1
+  },
+  {
+    "category": "DPP-4阻害薬",
+    "genericName": "ビルダグリプチン",
+    "productName": "エクア",
+    "period": "当日から",
+    "note": "(0日)",
+    "shortCode": 1
+  },
+  {
+    "category": "DPP-4阻害薬",
+    "genericName": "シタグリプチン",
+    "productName": "ジャヌビア",
+    "period": "当日から",
+    "note": "(0日)",
+    "shortCode": 1
+  },
+  {
+    "category": "DPP-4阻害薬",
+    "genericName": "シタグリプチン",
+    "productName": "グラクティブ",
+    "period": "当日から",
+    "note": "(0日)",
+    "shortCode": 1
+  },
+  {
+    "category": "DPP-4阻害薬",
+    "genericName": "テネリグリプチン",
+    "productName": "テネリア",
+    "period": "当日から",
+    "note": "(0日)",
+    "shortCode": 1
+  },
+  {
+    "category": "DPP-4阻害薬",
+    "genericName": "リナグリプチン",
+    "productName": "トラゼンタ",
+    "period": "当日から",
+    "note": "(0日)",
+    "shortCode": 1
+  },
+  {
+    "category": "DPP-4阻害薬",
+    "genericName": "アログリプチン",
+    "productName": "ネシーナ",
+    "period": "当日から",
+    "note": "(0日)",
+    "shortCode": 1
+  },
+  {
+    "category": "DPP-4阻害薬",
+    "genericName": "サキサグリプチン",
+    "productName": "オングリザ",
+    "period": "当日から",
+    "note": "(0日)",
+    "shortCode": 1
+  },
+  {
+    "category": "DPP-4阻害薬",
+    "genericName": "アナグリプチン",
+    "productName": "スイニー",
+    "period": "当日から",
+    "note": "(0日)",
+    "shortCode": 1
+  },
+  {
+    "category": "DPP-4阻害薬",
+    "genericName": "トレラグリプチン",
+    "productName": "ザファテック(週１回製剤)",
+    "period": "当日から",
+    "note": "(0日)",
+    "shortCode": 1
+  },
+  {
+    "category": "DPP-4阻害薬",
+    "genericName": "オマリグリプチン",
+    "productName": "マリゼブ(週１回製剤)",
+    "period": "当日から",
+    "note": "(0日)",
+    "shortCode": 1
+  },
+  {
+    "category": "GLP-1(注射)",
+    "genericName": "デュラグルチド",
+    "productName": "トルリシティ(週１回製剤",
+    "period": "当日から",
+    "note": "(0日)",
+    "shortCode": 1
+  },
+  {
+    "category": "GLP-1(注射)",
+    "genericName": "エキセナチド",
+    "productName": "バイエッタ",
+    "period": "当日から",
+    "note": "(0日)",
+    "shortCode": 1
+  },
+  {
+    "category": "GLP-1(注射)",
+    "genericName": "エキセナチド",
+    "productName": "ビデュリオン(週１回製剤)",
+    "period": "当日から",
+    "note": "(0日)",
+    "shortCode": 1
+  },
+  {
+    "category": "GLP-1(注射)",
+    "genericName": "リラグルチド",
+    "productName": "ビクトーザ",
+    "period": "当日から",
+    "note": "(0日)",
+    "shortCode": 1
+  },
+  {
+    "category": "GLP-1(注射)",
+    "genericName": "インスリンデグルテグ/リラグルチド",
+    "productName": "ゾルトファイ",
+    "period": "当日から",
+    "note": "(0日)",
+    "shortCode": 1
+  },
+  {
+    "category": "GLP-1(注射)",
+    "genericName": "リキシセナチド",
+    "productName": "リキスミア",
+    "period": "当日から",
+    "note": "(0日)",
+    "shortCode": 1
+  },
+  {
+    "category": "GLP-1(注射)",
+    "genericName": "インスリングラルギン/リキシセチナド",
+    "productName": "ソリクア",
+    "period": "当日から",
+    "note": "(0日)",
+    "shortCode": 1
+  },
+  {
+    "category": "GLP-1(注射)",
+    "genericName": "セマグルチド",
+    "productName": "オゼンピック(週１回製剤)",
+    "period": "当日から",
+    "note": "(0日)",
+    "shortCode": 1
+  },
+  {
+    "category": "GLP-1(内服)",
+    "genericName": "セマグルチド",
+    "productName": "リベルサス",
+    "period": "当日から",
+    "note": "(0日)",
+    "shortCode": 1
+  },
+  {
+    "category": "ビグアナイド薬",
+    "genericName": "ブホルミン",
+    "productName": "ジベトス",
+    "period": "1-2日前から2日後まで",
+    "note": "(1日)",
+    "shortCode": 2
+  },
+  {
+    "category": "ビグアナイド薬",
+    "genericName": "ブホルミン",
+    "productName": "ジベトン",
+    "period": "1-2日前から2日後まで",
+    "note": "(1日)",
+    "shortCode": 2
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "アスピリン",
+    "productName": "アスピリン腸溶錠",
+    "period": "7-14日（出血リスク高のとき）",
+    "note": "(7日)",
+    "shortCode": 8
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "アスピリン・ダイアルミネート",
+    "productName": "バファリンA81",
+    "period": "7-14日（出血リスク高のとき）",
+    "note": "(1日)",
+    "shortCode": 2
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "イコサペント酸エチル(EPA)",
+    "productName": "エパデールEM",
+    "period": "7-14日",
+    "note": "(7日)",
+    "shortCode": 8
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "イコサペント酸エチル(EPA)/ ドコサヘキサ酸エチル(DHA)",
+    "productName": "オメガ-3脂肪酸エチル",
+    "period": "7-10日",
+    "note": "(7日)",
+    "shortCode": 8
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "サルポグレラート",
+    "productName": "サルポグレラート",
+    "period": "1-2日",
+    "note": "(1日)",
+    "shortCode": 2
+  },
+  {
+    "category": "抗血小板薬",
+    "genericName": "ベラプロストナトリウム",
+    "productName": "ベラプロストNaベラプロストNa",
+    "period": "1-2日",
+    "note": "(1日)",
+    "shortCode": 2
+  },
+  {
+    "category": "卵胞ホルモン製剤",
+    "genericName": "エストリオール",
+    "productName": "エストリオール",
+    "period": "休薬あるなしさまざま",
+    "note": "(医判)",
+    "shortCode": "(医判)"
+  },
+  {
+    "category": "骨粗しょう症治療薬",
+    "genericName": "ラロキシフェン",
+    "productName": "ラロキシフェン",
+    "period": "術前3日前中止～歩行まで",
+    "note": "(3日)",
+    "shortCode": 4
+  },
+  {
+    "category": "骨粗しょう症治療薬",
+    "genericName": "バゼドキシフェン",
+    "productName": "バゼドキシフェン",
+    "period": "術前3日前中止～歩行まで",
+    "note": "(3日)",
+    "shortCode": 4
+  },
+  {
+    "category": "ビグアナイド薬",
+    "genericName": "メトホルミン",
+    "productName": "グリコラン",
+    "period": "1-2日前からより2日後まで",
+    "note": "(1日)",
+    "shortCode": 2
+  }
+]
