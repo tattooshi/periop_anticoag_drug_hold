@@ -1,0 +1,29 @@
+name: surgery_stopper
+description: 周術期休止薬 検索アプリ
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.4.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.13.1
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/data/medicines.json   # ← これが重要（パス/ファイル名一致）
+
+flutter_icons:
+  android: true
+  ios: false
+  image_path_android: "assets_icons/icon.png"
+  adaptive_icon_background: "#FFFFFF"   # 透過pngでもOK、好みで
+  adaptive_icon_foreground: "assets_icons/icon.png"
